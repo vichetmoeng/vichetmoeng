@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> **Who am I? 😄
 --> 😄 I am Vichet <br>
 --> 🌱 I’m currently a Computer Science Student at RUPP (Year 3) and still keep learning Full-Stack Web development<br>
---> ⚡  Skill: C/C++, Java, PHP, Wordpress, Bootsrap, HTML/CSS, Javascript, MySQL, Linux, AWS(Cloud Computing) <br>
+--> ⚡  Knowledge: C/C++, Java, PHP, Wordpress, Bootsrap, HTML/CSS, Javascript, MySQL, Linux, AWS(Cloud Computing) <br>
 --> 👯 I’m looking to collaborate on any project relate to Web Development<br>
 --> 💬 Ask me about any code error or anything <br>
 --> 📫 How to reach me: my Facebook: https://www.facebook.com/moeng.vichet.official<br>
