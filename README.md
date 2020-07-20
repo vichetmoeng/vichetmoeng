@@ -13,16 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my Facebook: https://www.facebook.com/moeng.vichet.official
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I still learning 😄
---> **this profile still maintaining not yet done 😄
+--> **Who am I? 😄
 --> 😄 I am Vichet <br>
---> 🌱 I’m currently learning Full-Stack Web development<br>
+--> 🌱 I’m currently a Computer Science Student at RUPP (Year 3) and still keep learning Full-Stack Web development<br>
+--> ⚡  Skill: C/C++, Java, PHP, Wordpress, Bootsrap, HTML/CSS, Javascript, MySQL, Linux, AWS(Cloud Computing)
 --> 👯 I’m looking to collaborate on any project relate to Web Development<br>
 --> 💬 Ask me about any code error or anything <br>
 --> 📫 How to reach me: my Facebook: https://www.facebook.com/moeng.vichet.official<br>
 --> ⚡  Fun fact: I'm looking for job 👋<br>
 
 ### My Portfolio: 😄 <br>
---> 🔭 E-Commerce Website: https://mvichetwordpress.tech/ <br>
+--> 🔭 E-Commerce Website: https://mvichetwordpress.tech/  (based on Wordpress) <br>
 --> 🔭 Bootstrap Practic : https://vichetmoeng.github.io/Bootstrap-Practic-Project/ <br>
 --> 🔭 HTML & CSS Practic: https://vichetmoeng.github.io/ProjectCSS/ <br> 
 --> 🔭 HTML Only Practic : https://vichetmoeng.github.io/HTMLProject/ <br>
