@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 --> 😄 I am Vichet <br>
 --> 🌱 I’m currently learning Full-Stack Web development<br>
 --> 👯 I’m looking to collaborate on any project relate to Web Development<br>
---> 💬 Ask me about any code error or anything if can I will try to answer<br>
+--> 💬 Ask me about any code error or anything <br>
 --> 📫 How to reach me: my Facebook: https://www.facebook.com/moeng.vichet.official<br>
---> ⚡  Fun fact: I still learning 😄<br>
+--> ⚡  Fun fact: I'm looking for job 👋<br>
 
+### My Portfolio: 😄 <br>
+--> 🔭 E-Commerce Website: https://mvichetwordpress.tech/ <br>
+--> 🔭 Bootstrap Practic : https://vichetmoeng.github.io/Bootstrap-Practic-Project/ <br>
+--> 🔭 HTML & CSS Practic: https://vichetmoeng.github.io/ProjectCSS/ <br> 
+--> 🔭 HTML Only Practic : https://vichetmoeng.github.io/HTMLProject/ <br>
