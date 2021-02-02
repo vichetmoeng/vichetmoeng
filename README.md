@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project relate to Web Development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about any code error or anything if can I will try to answer
-- 📫 How to reach me: my Facebook: https://www.facebook.com/moeng.vichet.official
+- 📫 How to reach me: my Telegram: https://t.me/moengvichet
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I still learning 😄
 --> **Who am I? 😄
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 --> ⚡  Knowledge: C/C++, Java, PHP(Laravel, Symfony), Wordpress, Bootsrap, HTML/CSS, Javascript(ReactJS, VueJS),SQL(MySQL), NoSQL(mongodb), Linux, AWS(Cloud Computing) <br>
 --> 👯 I’m looking to collaborate on any project relate to Web Development<br>
 --> 💬 Ask me about any code error or anything <br>
---> 📫 How to reach me: my Facebook: https://www.facebook.com/moeng.vichet.official<br>
+--> 📫 How to reach me: my Telegram: https://t.me/moengvichet<br>
 --> ⚡  Fun fact: Still keep learning 👋<br>
 
 ### My Portfolio: 😄 <br>
