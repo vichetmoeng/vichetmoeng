@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 --> 📫 How to reach me: my Telegram: https://t.me/moengvichet<br>
 --> ⚡  Fun fact: Still keep learning 👋<br>
 
-### My Portfolio: 😄 <br>
+### My Personal project: 😄 <br>
 --> 🔭 Bootstrap Practic : https://vichetmoeng.github.io/Bootstrap-Practic-Project/ <br>
 --> 🔭 HTML & CSS Practic: https://vichetmoeng.github.io/ProjectCSS/ <br> 
 --> 🔭 HTML Only Practic : https://vichetmoeng.github.io/HTMLProject/ <br>
