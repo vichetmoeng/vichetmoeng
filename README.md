@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I still learning 😄
 --> **Who am I? 😄
 --> 😄 I am Vichet <br>
---> 🌱 I’m currently a Computer Science and Engineer Student at RUPP (Year 4) and still keep learning Full-Stack Web development<br>
---> ⚡  Knowledge: C/C++, Java, PHP(Laravel, Symfony), Wordpress, Bootsrap, HTML/CSS, Javascript(ReactJS, VueJS),SQL(MySQL), NoSQL(mongodb), Linux, AWS(Cloud Computing) <br>
+--> 🌱 I’m a graduated student of Computer Science and Engineer at RUPP and still keep learning Full-Stack Development<br>
+--> ⚡  Knowledge: C/C++, Java(Spring Boot), PHP(Laravel, Symfony), Wordpress, Bootsrap, HTML/CSS, Javascript(ReactJS),SQL(MySQL), NoSQL(mongodb), Linux, AWS(Cloud Computing, S3), Google API <br>
 --> 👯 I’m looking to collaborate on any project relate to Web Development<br>
 --> 💬 Ask me about any code error or anything <br>
 --> 📫 How to reach me: my Telegram: https://t.me/moengvichet<br>
